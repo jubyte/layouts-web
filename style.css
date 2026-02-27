@@ -8,41 +8,6 @@ body {
    background-color: rgb(255, 255, 255);
 }
 
-.pink {
-   padding: 50;
-   margin: 20;
-   background-color: rgb(255, 190, 235);
-}
-
-.rose {
-    height: 5;
-    width: 140;
-    background-color: blue;
-}
-
-.pinku {
-    height: 140;
-    width: 15;
-    background-color: rgb(43, 226, 52);
-}
-
-.rosiest{
-    height: 240;
-    width: 240;
-    background-color: brown;
-}
-
-.pinkiest{
-    height: 260;
-    width: 15;
-    background-color: blueviolet;
-}
-
-.flex {
-   display: flex;
-   justify-content: center;
-}
-
 .fundo {
    padding: 50;
    margin: 20;
@@ -50,8 +15,23 @@ body {
 
 }
 
-.pinke {
-    height: 260;
-    width: 100;
+.pink {
+   padding: 100;
+   margin: 20;
+   background-color: rgb(255, 190, 235);
+}
+
+.rose {
+    padding-right: 340;
+    background-color: blue;
+}
+
+.pinki {
+    padding-bottom: 340;
     background-color: rgb(14, 207, 233);
+}
+
+.pinku {
+    padding-bottom: 340;
+    background-color: rgb(43, 226, 52);
 }
