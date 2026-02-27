@@ -1,0 +1,47 @@
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+body {
+   background-color: rgb(255, 255, 255);
+}
+
+.pink {
+   padding: 50;
+   margin: 20;
+   background-color: rgb(255, 190, 235);
+}
+
+.rose {
+    height: 5;
+    width: 140;
+}
+
+.pinkiest{
+    height: 380;
+    width: 100;
+}
+
+.pinku {
+    height: 140;
+    width: 15;
+}
+
+.rosiest{
+    height: 100;
+    width: 280;
+}
+
+.flex {
+   display: flex;
+   justify-content: center;
+}
+
+.fundo {
+   padding: 50;
+   margin: 20;
+   background-color: rgb(255, 250, 201);
+
+}
