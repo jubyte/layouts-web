@@ -17,21 +17,25 @@ body {
 .rose {
     height: 5;
     width: 140;
-}
-
-.pinkiest{
-    height: 380;
-    width: 100;
+    background-color: blue;
 }
 
 .pinku {
     height: 140;
     width: 15;
+    background-color: rgb(43, 226, 52);
 }
 
 .rosiest{
-    height: 100;
-    width: 280;
+    height: 240;
+    width: 240;
+    background-color: brown;
+}
+
+.pinkiest{
+    height: 260;
+    width: 15;
+    background-color: blueviolet;
 }
 
 .flex {
@@ -44,4 +48,10 @@ body {
    margin: 20;
    background-color: rgb(255, 250, 201);
 
+}
+
+.pinke {
+    height: 260;
+    width: 100;
+    background-color: rgb(14, 207, 233);
 }
